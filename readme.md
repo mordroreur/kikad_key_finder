@@ -1,7 +1,7 @@
 
 # Key-Finder design
 
-Ce repos est le travaille de Laurencot Mathieu pour la quatrième scéance de du cours de "Design à deux balles" mis en place par M. Marchand et M. Petit.
+Ce repos est le travaille de Laurencot Mathieu pour la cinquième scéance de du cours de "Design à deux balles" mis en place par M. Marchand et M. Petit.
 Le but de ce cour est de créer la carte électronque qui pourrait être implémenté dans le key-Finder. 
 Vous trouverez donc tout les fichier de mon travaille.
 
