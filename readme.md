@@ -31,7 +31,7 @@ aux pins du swdio, swdclk, la pin de reset(inversé) et les pins 22, 23 et 24.
 
 ### Le petit plus
 
-De plus, j'ai fais le choix de mettre un microphone. C'est une fonctionnalité
+De plus, j'ai fais le choix de mettre, comme l'on remarquie sur le schéma ci-dessus, un microphone relié à la pin 10. C'est une fonctionnalité
 qui est annoncé sur le packaging du keyfinder de action mais qui n'est pas sur la
 carte éléctronique, et qui n'existe donc pas.
 J'ai donc décidé de mettre un microphone qui pourrais assez facilement avoir les
